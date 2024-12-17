@@ -13,16 +13,7 @@ import (
 // finish
 
 func main() {
-	// title, description, priority := operations()
 	operations()
-	// task := crud.TaskInput{
-	// 	Title:       title,
-	// 	Description: description,
-	// 	Priority:    priority,
-	// }
-	// fmt.Println(tools.UpdateTask(4, "In Progress"))
-	// tasks := tools.AddTask(task)
-	// tools.CreateFile(tasks)
 } 
 
 func operations() {
